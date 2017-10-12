@@ -1,5 +1,5 @@
 body {
-    
+
     margin: 0 auto;
     background: tan;
     text-align: center;
@@ -29,8 +29,8 @@ nav {
 }
 
 #nav-container {
-	 margin: 0 auto;
-	width: 960px;
+    margin: 0 auto;
+    width: 960px;
 }
 
 header {
@@ -41,7 +41,10 @@ header {
     float: left;
 }
 
-header, h1, h2, h3 {
+header,
+h1,
+h2,
+h3 {
 
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -67,7 +70,7 @@ h1 {
     float: right;
 }
 
- #nav-ul li a {
+#nav-ul li a {
     display: block;
     /*color: #eee;*/
     text-align: center;
@@ -77,8 +80,9 @@ h1 {
 
 
 
+
 /* #contact {
-   	border-right: 1px solid black;
+    border-right: 1px solid black;
    }*/
 
 #portfolio {
@@ -87,8 +91,8 @@ h1 {
 }
 
 #container {
-	 margin: 0 auto;
-	width: 960px;
+    margin: 50px auto;
+    width: 960px;
 }
 
 section {
@@ -123,7 +127,7 @@ p {
 
     line-height: 24px;
     padding: 10px 20px;
-   
+
     background: #ffffff;
     text-align: left;
 }
@@ -137,36 +141,33 @@ aside {
 
 #connect-heading {
     padding: 10px;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
     color: #4aaaa5;
     font-size: 18px;
-
 }
 
 #connect-ul {
 
-	list-style-type: none;
+    list-style-type: none;
     margin-left: 15px;
 
     padding: 0;
     text-align: center;
     border-top: solid 1px #dddddd;
     padding-top: 10px;
-    
+
     margin-bottom: 20px;
     overflow: auto;
 }
 
 .connect-li {
-	float: left;
-
+    float: left;
 }
 
 .connect-li img {
-	height: 60px;
-	width: 60px;
-	margin: 10px;
-	
+    height: 60px;
+    width: 60px;
+    margin: 10px;
 }
 
 footer {
